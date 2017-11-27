@@ -19,9 +19,16 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
-.copyexcursion {
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+p.copyexcursion {
   text-align: right;
   color: gray;
 }
